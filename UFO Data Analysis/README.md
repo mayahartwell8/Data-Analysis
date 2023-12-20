@@ -1,0 +1,1 @@
+I made data visualizations with pandas to analyze data about UFO sightings across the world. The dataset includes datetime, city, state, country, shape , duration, comments, date posted, latitude, and longitude
